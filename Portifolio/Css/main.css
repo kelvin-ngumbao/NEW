@@ -1,0 +1,13 @@
+/*This is the base css file*/
+nav {
+    background-color: rgba(157, 214, 236, 0.966);
+}
+nav a{
+    color: rgb(3, 3, 3);
+}
+footer{
+    background-color: rgb(157,214, 234, 0.966);
+}
+footer a{
+    color: black;
+}
